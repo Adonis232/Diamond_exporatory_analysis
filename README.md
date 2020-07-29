@@ -33,14 +33,14 @@ In my case I had to use 2 different computers to make the project since I have L
 Multiple libraries were used:
 
 
- -Matplotlib
- -Seaborn
- -Pandas
- -Numpy
- -Tableau
- -Cufflinks
- -Plotly
- -Ipython
+ -Matplotlib\
+ -Seaborn\
+ -Pandas\
+ -Numpy\
+ -Tableau\
+ -Cufflinks\
+ -Plotly\
+ -Ipython\
  -Mpl toolkits
 
 
