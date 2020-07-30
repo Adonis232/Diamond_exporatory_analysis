@@ -50,7 +50,7 @@ Multiple libraries were used:
 
 
 
-Since Im far from an expert and my knowledge of diamonds is limited, I used this website (#https://www.bluenile.com/education/diamonds) to get to know the dataset.
+Since Im far from an expert and my knowledge of diamonds is limited, I used this website https://www.bluenile.com/education/diamonds to get to know the dataset.
 
 
 
