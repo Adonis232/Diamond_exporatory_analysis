@@ -53,7 +53,15 @@ Multiple libraries were used:
 Since Im far from an expert and my knowledge of diamonds is limited, I used this website https://www.bluenile.com/education/diamonds to get to know the dataset.
 
 
+## Bonus challenge
 
+Notebook with my group's hypothesis testing calculations exercises done:
+
+    - Dataframe vs. 4000 USD
+    
+Subtest 2:
+
+    -Good cut + color E vs. Good cut + color F
 
 ## Usage
 
