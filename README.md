@@ -18,7 +18,7 @@ Here is my module 2 project, we are making a data visualization of a dataset dow
 
 
 
-My dashborad its updated to my [Tableau public](https://public.tableau.com/profile/emmanuel.adonis.lafuente.ramos#!/vizhome/module-2projectdatavisualization/colorclarityxyz), were I made a dashboard to look at the(overall) main characteristics that defined the price or value of a diamond.
+My dashborad its updated to my [Tableau public](https://public.tableau.com/profile/emmanuel.adonis.lafuente.ramos#!/vizhome/module-2projectdatavisualization/caratdepth), were I made a dashboard to look at the(overall) main characteristics that defined the price or value of a diamond.
 
 
 
